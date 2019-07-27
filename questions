@@ -1,0 +1,15 @@
+Problem:
+In a stock market, there is a product with its infinite stocks. The stock prices are given forndays, wherea[i] denotes the price of the stock on theithday. There is a rule that a customer can buy at mostistock on theithday. If the customer has an amount ofkdollars initially, find out the maximum number of stocks they can buy?
+For example, for3days the price of a stock is given as7,10,4. You can buy1stock worth7$on day1,2stocks worth10$each on day2and3stocks worth4$each on day3. Ifk=100$, you can buy all the stocks (total6) for 39$.
+
+Input : 3
+10 7 19
+45
+Output :4
+Input Description :The first line contains an integerndenoting the number of days.
+The next line containsnspace-separated integers whereithinteger denotes the price of the stock on theithday. Next line contains a positive integerkwhich is the initial amount with the customer.
+
+
+
+solution :- stocks.cpp
+
